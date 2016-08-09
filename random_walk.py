@@ -42,3 +42,4 @@ plt.clf()
 
 prob = sum(all_walks_np_t[-1])/run
 print('Probability is ' + str(round(prob, 2)) + '%')
+
