@@ -27,4 +27,4 @@ And you bet your friend that you will reach 60 steps high. What is the chance th
 
 ## Installation and Usages
 * Downlaod and run random_walk.py.
-* Parameters could be changed to customize the simulation.   
+* Parameters could be customized.   
