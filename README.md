@@ -1,7 +1,7 @@
 # Random Walk Simulation
 ## Introduction
-In this repository, a classic random walk problem is solved by using Monte Carlo simulation. Visualizations of random walk processes
-and results are provedied.
+In this repository, a classic random walk problem was solved by using Monte Carlo simulation. Visualizations of random walk processes
+and results were also provedied.
 * The program is written in Python.
 * Three files are included: 1) random_walk.py - simulation code; 2) plot_random_walk.png - plots of random walk processes of 1000 simulations;
 3) histogram_random_walk.png - histogram of end steps of 1000 simulations.
